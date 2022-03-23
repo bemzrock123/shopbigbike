@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1xYBHqjefoVtn97-9pJMpMoh7gP1C-auJ?usp=sha
 #Mobile application - Figma
 หน้าจอหลัก
 ![1](https://user-images.githubusercontent.com/86649872/159748099-18be7c20-9b28-46b5-a21c-da4a95d77c04.png)
-
+หน้าจอหลัก
 หน้าสมัครสมาชิกและล็อคอินเข้าสู่ระบบ
 ![2](https://user-images.githubusercontent.com/86649872/159748357-c65cc79d-4198-4c1e-8c28-d5103ef1ee0a.png)
 
