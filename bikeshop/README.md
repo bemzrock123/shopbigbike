@@ -12,9 +12,10 @@
 https://drive.google.com/drive/folders/1xYBHqjefoVtn97-9pJMpMoh7gP1C-auJ?usp=sharing
 
 #Mobile application - Figma
+
 หน้าจอหลัก
 ![1](https://user-images.githubusercontent.com/86649872/159748099-18be7c20-9b28-46b5-a21c-da4a95d77c04.png)
-หน้าจอหลัก
+
 หน้าสมัครสมาชิกและล็อคอินเข้าสู่ระบบ
 ![2](https://user-images.githubusercontent.com/86649872/159748357-c65cc79d-4198-4c1e-8c28-d5103ef1ee0a.png)
 
@@ -30,16 +31,3 @@ https://drive.google.com/drive/folders/1xYBHqjefoVtn97-9pJMpMoh7gP1C-auJ?usp=sha
 หน้าค้นหา
 ![5](https://user-images.githubusercontent.com/86649872/159748790-88716e74-e951-4577-9629-6a5c3c8f8d66.png)
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
